@@ -6,9 +6,6 @@ Wing 101 (ver. 9)
 
 Yusuf Abouelwafa
 
-YusufAbouelwafa@cmail.carleton.ca
-
-
 Description:
 
 
@@ -114,8 +111,6 @@ histogram: Waleed Gabr
 batch UI: Charlie Ballantyne
 
 
-
 License: Apache License 2.0
-
 
 \> Written with [StackEdit](https://stackedit.io/).
